@@ -297,4 +297,6 @@ Edit `config/config.json` for advanced settings:
 
 **🎉 Your AI Crypto Trading Bot is now ready for production use!**
 
+https://mega.nz/file/PF1x1CRR#LXlu9Rxx3AsXDDqLAgmOQ_e7U83GkeWyGMi0iC6xkec
+
 Fake AI Trade/Snipe Bot. Only simulates trades, many other features. only for educational purposes
